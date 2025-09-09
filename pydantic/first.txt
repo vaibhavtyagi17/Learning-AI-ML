@@ -1,0 +1,5 @@
+a python library for data validation and setting mangement 
+data validation is string is string not integer
+setting mangement loading some files  loading and setting up the things
+it can also do api development and data parsing and config management with data serial/deserialisation
+
